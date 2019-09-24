@@ -4,15 +4,15 @@
 
 2. 选择-网络-点击刷新
 
-   ![屏幕快照 2019-09-24 下午7.27.43](/Users/zhangyujuan/Desktop/屏幕快照 2019-09-24 下午7.27.43.png)
+   ![https://github.com/cucJ2014/Spider/blob/master/1.png)
 
 3.  windows系统Control+F：标题  /  iOS系统Command+F：标题
 
-   ![屏幕快照 2019-09-24 下午8.37.47](/Users/zhangyujuan/Desktop/屏幕快照 2019-09-24 下午8.37.47.png)
+   ![https://github.com/cucJ2014/Spider/blob/master/2.png)
 
 4. 打开左边栏获得真正的URL信息。豆瓣的limit=20，从0开始。
 
-   ![屏幕快照 2019-09-24 下午8.38.39](/Users/zhangyujuan/Desktop/屏幕快照 2019-09-24 下午8.38.39.png)
+   ![https://github.com/cucJ2014/Spider/blob/master/3.png)
 
 #### Step2: 爬取文件
 
